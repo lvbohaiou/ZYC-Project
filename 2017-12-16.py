@@ -10,3 +10,6 @@ else:
   print("b is bigger")
 
 
+print("这里是可以的")
+
+
